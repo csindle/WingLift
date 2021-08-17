@@ -1,0 +1,15 @@
+
+I've tried to explain intuitively how a wing produces lift (in 60 seconds!), without having to resort to any famous names like Newton, Bernoulli, Navier–Stokes, Venturi (!) or Coandă (!).
+
+Notes:
+
+This video is, by necessity, a simplification (e.g. what happens at the convex leading and trailing edges), but does explain the bulk of the lift forces.
+
+The relative curvatures of the streamlines above (a lot) and below (not much) the wing also give us a clue to their relative pressures, and therefore lift contributions.
+
+It is also interesting to note how tiny the pressure differences actually are as a percentage of atmospheric pressure: around 6.5% of an atmosphere for a Boeing 737-900 (split unequally between the upper and lower wing surfaces); and for a performance glider/sailplane, it's only ~0.5% atm.
+
+___
+
+Many thanks to aeronautical engineer Steve Haselum for the explanation and finally clearing up this murky topic.
+
