@@ -1,9 +1,15 @@
 
-I've tried to explain intuitively how a wing produces lift (in 60 seconds!), without having to resort to any famous names like Newton, Bernoulli, Navier–Stokes, Venturi (!) or Coandă (!).
+https://youtu.be/nY_H5qPA_aU
+
+A Wing's Lift Explained by Hurricanes
+
+In only 60 seconds this video attempts to explain intuitively how a wing produces lift, without having to resort to any famous names like Newton, Bernoulli, Navier–Stokes, Venturi (!), Coandă (!), Coriolis, etc.
+
+Succinctly: For streamlines (streamtubes) to bend around a moving wing, they must experience lateral acceleration. This can only be caused by a pressure gradient. We know the sense/slope/orientation of this gradient because of the streamlines' curves. By "integrating" them, we know the relative pressures on the wing's upper and lower surfaces.  These pressures cause the lifting force. 
 
 Notes:
 
-This video is, by necessity, a simplification (e.g. what happens at the convex leading and trailing edges), but does explain the bulk of the lift forces.
+This video is, by necessity, a simplification (e.g. what happens at the convex leading and trailing edges, and where does drag come from), but does explain the bulk of the lift force.
 
 The relative curvatures of the streamlines above (a lot) and below (not much) the wing also give us a clue to their relative pressures, and therefore lift contributions.
 
@@ -11,5 +17,11 @@ It is also interesting to note how tiny the pressure differences actually are as
 
 ___
 
-Many thanks to aeronautical engineer Steve Haselum for the explanation and finally clearing up this murky topic.
+Many thanks to aerodynamicist Steve Haselum for the explanation and finally clearing up this murky topic.
+
+
+Contact: yt@succinct.co.za for more information. 
+
+#VeritasiumContest
+#Shorts
 

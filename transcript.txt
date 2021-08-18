@@ -1,19 +1,19 @@
-Hurricanes explain how aeroplane wings produce lift
+How does a wing produce lift?
 
 The path that a small parcel of air takes when flowing around a wing is called a streamline. A wing has to be good at bending them to produce lift.
 
 For a streamline to bend, the parcel of air must be accelerating centripetally towards the inside of the bend because of a pressure gradient.
 
-You've seen this before, since it is the reason why winds in a hurricane or cyclone keep spinning around the centre: they are centripetally "sucked" in a curve around the eye by the relatively low pressure there compared to the ambient atmosphere's pressure.
+You've seen this before, because it's the reason why hurricane and cyclone winds keep spinning around the centre: they are centripetally "sucked" in a curve around the eye by the relatively low pressure there compared to the ambient atmosphere's pressure.
 
 To use streamlines to intuitively work out where there are large low or high pressure areas on a wing, consider that both above and below the wing, the streamlines are bending downwards, and increasingly so closer to the wing.
 
-This means firstly, that the wing's upper surface must be at a lower pressure than the ambient (imagine the streamlines being sucked around the wing's surface).
+As in the hurricane pressure gradient example, the orientation of these curves imply that: 
 
-And secondly, the wing's lower surface must be at a slightly higher pressure than ambient which bends the streamlines downwards away from the wing. 
+Firstly, the wing's upper surface must be at a lower pressure than ambient.
 
-So, with a relatively low pressure above the wing, and a high below, the wing is both pulled and pushed upwards.
-That's what we call lift, and it's what keeps a plane airborne.
+And secondly, the wing's lower surface must be at a slightly higher pressure than ambient. 
 
-
+Consequently, with a relatively low pressure above the wing, and a high below, the wing is both pulled and pushed upwards.
+That force is what we call lift, and it's what keeps a plane airborne.
 
